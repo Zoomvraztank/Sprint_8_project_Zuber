@@ -58,3 +58,13 @@ Se evaluó si:
 
 ```bash
 pip install -r requirements.txt
+
+Estructura Notebook
+# 1. Importación de librerías
+# 2. Carga de datos
+# 3. Exploración inicial
+# 4. Limpieza de datos
+# 5. Análisis exploratorio (EDA)
+# 6. Visualizaciones
+# 7. Hipótesis
+# 8. Conclusiones
