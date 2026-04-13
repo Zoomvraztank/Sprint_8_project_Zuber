@@ -32,7 +32,7 @@ Las condiciones externas influyen directamente en la duración de los viajes, lo
 - Aplicación de pruebas estadísticas en escenarios reales
 - Interpretación de datos para toma de decisiones
 
-## Proyecto
+## Link Proyecto
 https://github.com/Zoomvraztank/Sprint_8_project_Zuber
 
 Estructura Notebook
